@@ -16,6 +16,10 @@
             id: 4,
             columns: 12,
             class: "My row"
+        },{ 
+            id: 5,
+            columns: 6,
+            class: "My row"
         }
     ]
 }
