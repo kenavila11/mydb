@@ -2,7 +2,10 @@
     "rows": [
         { 
             "id": 1,
-            "columns": 2,
+            "columns": [
+                {"id": 1, "width": 2},
+                {"id": 2, "width": 2}
+            ],
             "class": "My row"
         },{ 
             "id": 2,
