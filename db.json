@@ -9,19 +9,31 @@
             "class": "My row"
         },{ 
             "id": 2,
-            "columns": 4,
+            "columns": [
+                {"id": 1, "width": 2},
+                {"id": 2, "width": 2}
+            ],
             "class": "My row"
         },{ 
             "id": 3,
-            "columns": 3,
+            "columns": [
+                {"id": 1, "width": 2},
+                {"id": 2, "width": 2}
+            ],
             "class": "My row"
         },{ 
             "id": 4,
-            "columns": 12,
+            "columns": [
+                {"id": 1, "width": 2},
+                {"id": 2, "width": 2}
+            ],
             "class": "My row"
         },{ 
             "id": 5,
-            "columns": 6,
+            "columns": [
+                {"id": 1, "width": 2},
+                {"id": 2, "width": 2}
+            ],
             "class": "My row"
         }
     ]
