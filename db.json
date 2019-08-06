@@ -1,0 +1,21 @@
+{
+    rows: [
+        { 
+            id: 1,
+            columns: 2,
+            class: "My row"
+        },{ 
+            id: 2,
+            columns: 4,
+            class: "My row"
+        },{ 
+            id: 3,
+            columns: 3,
+            class: "My row"
+        },{ 
+            id: 4,
+            columns: 12,
+            class: "My row"
+        }
+    ]
+}
